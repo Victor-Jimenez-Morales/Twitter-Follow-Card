@@ -21,11 +21,11 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  gap: 20px;
 }
 
-.title img {
-  width: 70px;
+.title i {
+  font-size: 70px;
 }
 
 .title h1 {

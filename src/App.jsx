@@ -12,7 +12,7 @@ export function App() {
   return (
     <div className='App'>
       <section className='title'>
-        <img src='./assets/twitter.png' alt="Twitter logo" />
+        <i class="fa-brands fa-square-x-twitter"></i>
         <h1>FOLLOW CARD</h1>
       </section>
       <section className='cardList'>
