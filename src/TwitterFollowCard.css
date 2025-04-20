@@ -36,6 +36,7 @@
   font-weight: bold;
   border: 1px solid #000;
   transition: .2s ease all;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .tw-followCard-button:hover {
@@ -58,7 +59,6 @@
   color: red;
   border: 1px solid red;
   opacity: 1;
-  -webkit-tap-highlight-color: transparent;
 }
 
 .tw-followCard-button.is-following:hover .tw-followCard-text {
