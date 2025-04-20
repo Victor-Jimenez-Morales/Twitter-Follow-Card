@@ -38,6 +38,11 @@
   transition: .2s ease all;
 }
 
+.tw-followCard-button {
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
 .tw-followCard-text {
   display: block;
 }
@@ -54,10 +59,6 @@
 }
 
 @media (hover: hover) {
-  :focus {
-    outline: none;
-  }
-
   .tw-followCard-button:hover {
     opacity: .8;
   }
