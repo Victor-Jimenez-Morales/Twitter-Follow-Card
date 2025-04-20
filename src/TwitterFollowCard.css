@@ -49,15 +49,15 @@
   width: 126px;
 }
 
-.tw-followCard-button:hover {
-  opacity: .8;
-}
-
 .tw-followCard-stopFollow {
   display: none;
 }
 
 @media (hover: hover) {
+  .tw-followCard-button:hover {
+    opacity: .8;
+  }
+  
   .tw-followCard-button.is-following:hover {
     background-color: rgba(255, 0, 0, 0.178);
     color: red;
