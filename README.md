@@ -54,5 +54,6 @@ public/
 * Clean, modern, and responsive UI.
 * Reusable card component.
 
+---
 
 Made with ❤️ by [Victor Jiménez Morales](https://github.com/Victor-Jimenez-Morales)
